@@ -9,6 +9,4 @@ eureka:
         instance:
               hostname: localhost
 
-spring:
-  application:
-      name: CONFIG-DEFAULT
+
